@@ -5,7 +5,7 @@ import {Container} from "../styles/Footer";
 function Footer() {
   return (
     <Container>
-      <ul className="flex sm:flex-row text-xl font-righteous text-accent font-bold justify-center items-center cursor-pointer">
+      <ul className="flex sm:flex-row text-xl font-righteous text-accent font-bold justify-center items-center cursor-hand">
         <li className="p-2 sm:mr-5">
           <a href="https://github.com/open-sauced/hot"
             target="_blank" rel="noreferrer"
